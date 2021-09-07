@@ -45,14 +45,14 @@ WEEK1-LAB001
        Length : 42mm 
        Height : 18mm
     }
-    <img src="ref/Delay 1ch..jpeg" width="400">
+<img src="ref/Delay 1ch..jpeg" width="400">
 
 
 
 
     หลอดไฟแสดงผล ขนาด 3mm
 
-    <img src="ref/LED-3mm-Red.jpg" width="400">
+<img src="ref/LED-3mm-Red.jpg" width="400">
 
 
     สกรูหัวกลม ขนาด 19mm
@@ -60,7 +60,7 @@ WEEK1-LAB001
        Diameter : 2mm
        Length : 19mm 
     }
-    <img src="ref/not.jpg" width="400">
+<img src="ref/not.jpg" width="400">
 
 
 
