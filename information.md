@@ -9,19 +9,6 @@ WEEK1-LAB001
 
 
 
-information design{
-        FRAME มีทั้งหมด 5 body {
-                              Frame1 < จะเป็นกรอบในส่วนของฝากล่อง > < โดยฝากล่องจะมี 2 ขอบที่ซ้อนกันอยู่ >
-                                   { < ขนาดของกรอบรอบนอกสุด>
-                                       Width : 57mm
-                                       Length : 90mm
-                                       Height : 7mm
-                                   }
-                                   { < ขนาดของกรอบด้านในชั้นที่ 2>
-                                       Width : 55mm
-                                       Length : 88mm
-                                       Height : 7mm
-                                   }
 
                              FRAMEtop < จะเป็นแผ่นของฝากล่องที่เราเอามาซ้อนบน frame1 อีกที> {
                                    Frame2 {
