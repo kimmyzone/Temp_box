@@ -53,7 +53,11 @@ Node esp8266
 <img src="ref/LED-3mm-Red.png" width="400">
 
 
-
+สกรูหัวกลม ขนาด 19mm
+{
+    Diameter : 2mm
+    Length : 19mm 
+}
 
 
 
