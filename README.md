@@ -10,6 +10,8 @@ Mini Breadboard บอร์ดทดลองขนาดเล็ก 170 holes
 <img src="ref/Breadboard.png" width="400">
 
 
+
+
 DHT22 
 {
     Weight : 14mm
@@ -17,6 +19,9 @@ DHT22
     Height : 5.5mm
 }
 <img src="ref/dht22.png" width="400">
+
+
+
 
 
 Node esp8266 
@@ -28,16 +33,30 @@ Node esp8266
 <img src="ref/Nodeesp8266 .png" width="400">
 
 
+
+
+
+
 ชุดเปิด/ปิดไฟ 1 ช่องทาง (1 Ch. Relay Module) 
 {
     Weight : 26mm
     Length : 42mm 
     Height : 18mm
 }
-
 <img src="ref/Delay 1ch..png" width="400">
+
+
 
 
 หลอดไฟแสดงผล ขนาด 3mm
 
 <img src="ref/LED-3mm-Red.png" width="400">
+
+
+
+
+
+
+
+
+
