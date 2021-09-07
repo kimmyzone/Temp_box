@@ -8,7 +8,7 @@ WEEK1-LAB001
           Length : 48mm 
           Height : 10mm
        }
-       <img src="ref/Breadboard.jpg" width="400">
+      <img src="ref/Breadboard.jpg" width="400">
 
 
 
