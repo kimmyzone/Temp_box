@@ -2,11 +2,12 @@
 WEEK1-LAB001
 
 Mini Breadboard บอร์ดทดลองขนาดเล็ก 170 holes 
-{
-    Weight : 35mm
-    Length : 48mm 
-    Height : 10mm
-}
+
+       {
+          Weight : 35mm
+          Length : 48mm 
+          Height : 10mm
+       }
 <img src="ref/Breadboard.jpg" width="400">
 
 
