@@ -9,7 +9,7 @@ WEEK1-LAB001
           Height : 10mm
        }
      
-     <img src="ref/Breadboard.jpg" width="400">
+<img src="ref/Breadboard.jpg" width="400">
 
 
 
@@ -20,7 +20,7 @@ WEEK1-LAB001
          Length : 18mm 
          Height : 5.5mm
       }
-      <img src="ref/dht22.jpg" width="400">
+<img src="ref/dht22.jpg" width="400">
 
 
 
@@ -32,7 +32,7 @@ WEEK1-LAB001
         Length : 49mm 
         Height : 13mm
     }
-    <img src="ref/Nodeesp8266.png" width="400">
+<img src="ref/Nodeesp8266.png" width="400">
 
 
 
