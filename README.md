@@ -7,7 +7,7 @@ Mini Breadboard บอร์ดทดลองขนาดเล็ก 170 holes
     Length : 48mm 
     Height : 10mm
 }
-<img src="ref/Breadboard.png" width="400">
+<img src="ref/Breadboard.jpg" width="400">
 
 
 
